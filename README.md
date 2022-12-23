@@ -1,1 +1,1 @@
-这是一个HTML版本的CPS测试。
+minecraft2D,汉化版。
